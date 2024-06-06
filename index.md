@@ -4,11 +4,11 @@
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
 
 			embeddedservice_bootstrap.init(
-				'00D7E000000AlHh',
-				'IA_Northern_US_HUB_Service',
-				'https://abb--comsupport.sandbox.my.site.com/ESWPANorthernHUB1706678888610',
+				'00D1x000000Ja3A',
+				'PA_NORTHERN_HUB',
+				'https://abb--comint.sandbox.my.site.com/ESWPANORTHERNHUB1716987000569',
 				{
-					scrt2URL: 'https://abb--comsupport.sandbox.my.salesforce-scrt.com'
+					scrt2URL: 'https://abb--comint.sandbox.my.salesforce-scrt.com'
 				}
 			);
 		} catch (err) {
@@ -16,4 +16,4 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://abb--comsupport.sandbox.my.site.com/ESWPANorthernHUB1706678888610/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://abb--comint.sandbox.my.site.com/ESWPANORTHERNHUB1716987000569/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
