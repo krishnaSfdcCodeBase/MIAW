@@ -5,7 +5,7 @@
 
 			embeddedservice_bootstrap.init(
 				'00D9M000000qSBX',
-				'IA_Northern_US_HUB_Service',
+				'IA_Northern_US_HUB',
 				'https://abb--comstage.sandbox.my.site.com/ESWPANorthernHub1708684533261',
 				{
 					scrt2URL: 'https://abb--comstage.sandbox.my.salesforce-scrt.com'
