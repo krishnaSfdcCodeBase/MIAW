@@ -6,7 +6,7 @@
 			console.log("Received the onEmbeddedMessagingReady event…");
 
 			// Send data to Salesforce
-			embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields({"LoggedInUserFirstName" : "Test ","LoggedInUserLastName" : "krishna","LoggedInUserEmail" : "test@messaging.com"});
+			embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields({"LoggedInUserFirstName" : "Test ","LoggedInUserLastName" : "Danydyl","LoggedInUserEmail" : "test@messaging.com"});
 			});
 			embeddedservice_bootstrap.init(
 				'00D9M000000qSBX',
