@@ -1,3 +1,4 @@
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'">
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
