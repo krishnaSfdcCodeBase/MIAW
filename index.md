@@ -1,10 +1,7 @@
 
 <head>
     <title>Home</title>
-    <meta charset="utf-8" lang="en">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
-    <link href="/style.css" rel="stylesheet">
 </head>
 <body>
 <script type='text/javascript'>
