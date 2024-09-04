@@ -11,11 +11,11 @@
 			});
 			
 			embeddedservice_bootstrap.init(
-				'00D9M000000qSBX',
+				'00DbY000009Xtwb',
 				'IA_Sweden_Service',
-				'https://abb--comstage.sandbox.my.site.com/ESWIASwedenService1718027759702',
+				'https://abb--sfdcstage.sandbox.my.site.com/ESWIASwedenService1719400976288',
 				{
-					scrt2URL: 'https://abb--comstage.sandbox.my.salesforce-scrt.com'
+					scrt2URL: 'https://abb--sfdcstage.sandbox.my.salesforce-scrt.com'
 				}
 			);
 		} catch (err) {
@@ -23,4 +23,4 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://abb--comstage.sandbox.my.site.com/ESWIASwedenService1718027759702/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://abb--sfdcstage.sandbox.my.site.com/ESWIASwedenService1719400976288/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
