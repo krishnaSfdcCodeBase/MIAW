@@ -6,6 +6,7 @@
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
     <link href="/style.css" rel="stylesheet">
 </head>
+<body>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
@@ -32,3 +33,4 @@
 	};
 </script>
 <script type='text/javascript' src='https://abb--sfdcstage.sandbox.my.site.com/ESWIASwedenService1719400976288/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+</body>
